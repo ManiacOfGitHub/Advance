@@ -1,7 +1,7 @@
 var express = require("express");
 var app = express();
 app.get("/", (req, res) => {
-    res.send("Hi");
+    res.sendFile(__dirname + "/web/index.html");
 });
 
 var listener = app.listen(3000, () => {
