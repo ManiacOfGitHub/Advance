@@ -12,7 +12,8 @@
     "url": "git+https://github.com/ManiacOfGitHub/Advance.git"
   },
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "socket.io": "latest"
   },
   "keywords": [
     "rpg",
