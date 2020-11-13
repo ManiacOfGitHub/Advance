@@ -1,0 +1,26 @@
+{
+  "name": "advance",
+  "version": "1.0.0",
+  "description": "Program that hosts the multiplayer server and the web version of Advance!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManiacOfGitHub/Advance.git"
+  },
+  "keywords": [
+    "rpg",
+    "advance",
+    "text-based",
+    "multiplayer"
+  ],
+  "author": "ManiacOfGitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManiacOfGitHub/Advance/issues"
+  },
+  "homepage": "https://github.com/ManiacOfGitHub/Advance#readme"
+}
